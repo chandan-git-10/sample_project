@@ -1,2 +1,4 @@
 dell
 hp
+lenovo
+asus
